@@ -76,9 +76,9 @@ hide_footer: True
 | 16:30-18:00   | **CAREER DEVELOPMENT ROUNDTABLE**  |   |
 |   |   *Career paths in bioinformatic and scientific research* |  **Senior PIs:** P. Tompa, T. Gibson, S. Fornasari<br>**Junior Scientists:** N. Palopoli, J. Iserte, E. Martinez-Perez<br>**Students/Trainees:** Matyas Pakjos   |
 | THURSDAY MAY 26th  |   |   |
-| 9:00-12:00  |  **TRAINING BOOTCAMP VIRTUAL** |   |
+| 9:00-13:00  |  **TRAINING BOOTCAMP VIRTUAL** |   |
 |   |  *Exploring protein disorder and diseases with MobiDB and DisProt databases* | Alex Monzón and Federica Quaglia  |
-| 12:00-14:00  | **LUNCH BREAK**  |   |
+| 13:00-14:00  | **LUNCH BREAK**  |   |
 | 14:00-18:00  | **TRAINING BOOTCAMP VIRTUAL**  |   |
 |   |   *Functional modules in human pathogenic proteins assessed through database (PED and ELM) analysis and predictions (Anchor and AlphaFold)*    |   Peter Tompa and Tamas Lazar |
 
