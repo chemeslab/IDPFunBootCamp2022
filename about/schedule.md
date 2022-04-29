@@ -53,7 +53,7 @@ hide_footer: True
 
 | **Monday May 23rd** | | |
 | 9:00-13:00    | **TRAINING BOOTCAMP VIRTUAL** |   |
-|   | *Prediction and analysis of functional SLiMs in pathogens* | Lucia Chemes and Juliana Glavina
+|   | *Prediction and analysis of functional motifs mediating viral and bacterial pathogen hijack* | Lucia Chemes and Juliana Glavina
 | 13:00-14:00   | **LUNCH BREAK**   |   |
 | 14:00-18:00   | **TRAINING BOOTCAMP VIRTUAL** |   |
 |   | *Disease associated variants in liquid-liquid phase separation proteins. DisPhaseDB: An integrative database* | Cristina Marino Buslje and Alvaro M Navarro |
@@ -75,6 +75,6 @@ hide_footer: True
 |   |  *Exploring protein disorder and diseases with MobiDB and DisProt databases* | Alex Monzón and Federica Quaglia  |
 | 12:00-14:00  | **LUNCH BREAK**  |   |
 | 14:00-18:00  | **TRAINING BOOTCAMP VIRTUAL**  |   |
-|   |   *Functional modules in IDPs assessed through database (PED and ELM) analysis and predictions (ID and AlphaFold)*    |   Peter Tompa and Tamas Lazar |
+|   |   *Functional modules in human pathogenic proteins assessed through database (PED and ELM) analysis and predictions (Anchor and AlphaFold)*    |   Peter Tompa and Tamas Lazar |
 
 </div>
