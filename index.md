@@ -11,7 +11,7 @@ hero_height: is_small
 ---
 
 <p style="text-align:center">
-<img src="./img/2022_Estructural_Flyer_Difusion_Cuadrado.png" alt="UniProt Homepage" style="max-width:70%">
+<img src="./img/2022_aav_IDPFUN.png" alt="IDPFun2022" style="max-width:70%">
 </p>
 
 <!---
