@@ -1,0 +1,12 @@
+- name: Sobre el curso
+  link: /about
+- name: Cronograma
+  link: /about/schedule
+- name: Teóricas
+  link: /teoricas
+- name: TPs
+  link: /TPs
+- name: Instructivos
+  link: /instructivos
+- name: Docentes
+  link: /docentes

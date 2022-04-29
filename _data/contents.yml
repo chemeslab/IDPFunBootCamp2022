@@ -1,0 +1,13 @@
+- label: Clases y Materiales
+  items:
+    - name: Información General
+      link: /
+      items: 
+        - name: Sobre el curso
+          link: /about
+        - name: Cronograma
+          link: /about/schedule/
+    - name: Clases Teóricas
+      link: /teoricas/
+    - name: Clases Prácticas
+      link: /TPs/   
