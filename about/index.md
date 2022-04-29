@@ -25,7 +25,7 @@ Please register [here](https://bit.ly/3vS6NRq)
 ### In person Symposium
 * Tuesday 24/5. 2 to 6 PM. 
 
-## ACKNOWLEDGMENT
+## ACKNOWLEDGEMENT
 
 <table>
 
