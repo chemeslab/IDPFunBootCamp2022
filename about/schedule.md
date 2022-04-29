@@ -12,42 +12,42 @@ hide_footer: True
         max-width:500px;
     }
 
-    tr:hover {background-color: #ffcccc;}
+    tr:hover {background-color: #e7dacb;}
 
     .content table th{
         background: #dedede;
     }
 
     .table thead th {
-        border: 2px solid black
+        border: 1.5px solid black
     }
 
-    .table tr:nth-child(1) { background: #800000ff;}
+    .table tr:nth-child(1) { background: #be4248ff;}
     .table tr:nth-child(1) { color: white;font-weight:bold}
     .table tr:nth-child(1) { border-top: 2px solid black; }
     .table tr:nth-child(1) { border-bottom: 2px solid black; }
     
-    .table tr:nth-child(4) { border-top: 2px solid #800000ff; }
-    .table tr:nth-child(4) { border-bottom: 2px solid #800000ff; }
+    .table tr:nth-child(4) { border-top: 2px solid #be4248ff; }
+    .table tr:nth-child(4) { border-bottom: 2px solid #be4248ff; }
 
-    .table tr:nth-child(7) { background: #800000ff;}
+    .table tr:nth-child(7) { background: #be4248ff;}
     .table tr:nth-child(7) { color: white;font-weight:bold}
     .table tr:nth-child(7) { border-top: 2px solid black; }
     .table tr:nth-child(7) { border-bottom: 2px solid black; }
 
-    .table tr:nth-child(10) { border-top: 2px solid #800000ff; }
-    .table tr:nth-child(10) { border-bottom: 2px solid #800000ff; }
+    .table tr:nth-child(10) { border-top: 2px solid #be4248ff; }
+    .table tr:nth-child(10) { border-bottom: 2px solid #be4248ff; }
 
-    .table tr:nth-child(17) { border-top: 2px solid #800000ff; }
-    .table tr:nth-child(17) { border-bottom: 2px solid #800000ff; }
+    .table tr:nth-child(17) { border-top: 2px solid #be4248ff; }
+    .table tr:nth-child(17) { border-bottom: 2px solid #be4248ff; }
 
-    .table tr:nth-child(20) { background: #800000ff;}
+    .table tr:nth-child(20) { background: #be4248ff;}
     .table tr:nth-child(20) { color: white;font-weight:bold}
     .table tr:nth-child(20) { border-top: 2px solid black; }
     .table tr:nth-child(20) { border-bottom: 2px solid black; }
 
-    .table tr:nth-child(23) { border-top: 2px solid #800000ff; }
-    .table tr:nth-child(23) { border-bottom: 2px solid #800000ff; }
+    .table tr:nth-child(23) { border-top: 2px solid #be4248ff; }
+    .table tr:nth-child(23) { border-bottom: 2px solid #be4248ff; }
 
     .table tr:nth-child(25) { border-bottom: 2px solid black; }
 
