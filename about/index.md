@@ -31,7 +31,7 @@ Please register [here](https://bit.ly/3vS6NRq)
 
     <tr>
         <td width="100">
-            <img src="./img/EU_logo.png" width="100%">
+            <img src="/img/EU_logo.png" width="100%">
         </td>
 
         <td>
