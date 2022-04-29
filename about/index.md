@@ -15,7 +15,7 @@ Participation requires registration but the event is free (no registration fee).
 
 Please register [here](https://bit.ly/3vS6NRq)
 
-## Days
+## DAYS
 
 ### Virtual Bootcamp Training
 * Monday 23/5. 9 AM to 6 PM
@@ -24,3 +24,19 @@ Please register [here](https://bit.ly/3vS6NRq)
 
 ### In person Symposium
 * Tuesday 24/5. 2 to 6 PM. 
+
+## ACKNOWLEDGMENT
+
+<table>
+
+    <tr>
+        <td width="100">
+            <img src="./img/EU_logo.png" width="100%">
+        </td>
+
+        <td>
+            <em>This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 778247.</em>
+        </td>
+    </tr>
+
+</table>
