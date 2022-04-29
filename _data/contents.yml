@@ -1,9 +1,6 @@
-- label: Clases y Materiales
+- label: Contents
   items:
-    - name: Contents
-      link: /
-      items: 
-        - name: About
-          link: /about
-        - name: Schedule
-          link: /about/schedule/ 
+    - name: About
+      link: /about
+    - name: Schedule
+      link: /about/schedule/ 
