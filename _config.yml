@@ -23,7 +23,7 @@ title: ChemesLab (EByN-UNSAM)
 description: >- # this means to ignore newlines until "baseurl:"
   IDPfun Annual Argentina Visit (AAV) - UNSAM “Intrinsically Disordered Proteins in Disease”
 
-baseurl: "/IDPFunBootCamp2022" # the subpath of your site, e.g. /blog
+#baseurl: "/IDPFunBootCamp2022" # the subpath of your site, e.g. /blog
 url: "https://idpfun.chemeslab.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
