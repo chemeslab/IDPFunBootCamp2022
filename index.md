@@ -2,8 +2,8 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Herramientas Bioinformáticas para el análisis de estructura, desorden e interacciones de proteínas
-subtitle: EByN-UNSAM
+title: IDPfun Annual Argentina Visit (AAV) – UNSAM
+subtitle: Intrinsically Disordered Proteins in Disease
 layout: page
 show_sidebar: false
 menubar: contents

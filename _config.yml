@@ -18,12 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Bioinformática estructural (EByN-UNSAM)
+title: ChemesLab (EByN-UNSAM)
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Página web del curso de Bioinformática Estructural (EByN-UNSAM)
-baseurl: "/estructural" # the subpath of your site, e.g. /blog
-url: "https://bioinformatica-iib.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+  IDPfun Annual Argentina Visit (AAV) - UNSAM “Intrinsically Disordered Proteins in Disease”
+
+baseurl: "/IDPFunBootCamp2022" # the subpath of your site, e.g. /blog
+url: "https://chemeslab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 # theme: minima
@@ -73,13 +74,13 @@ sass:
 plugins:
   - jekyll-seo-tag
 
-collections:
-  instructivos :
-    output : true
-  teoricas :
-    output : true
-  TPs : 
-    output : true
+#collections:
+#  instructivos :
+#    output : true
+#  teoricas :
+#    output : true
+#  TPs : 
+#    output : true
 
 kramdown:
   parse_block_html: true  
