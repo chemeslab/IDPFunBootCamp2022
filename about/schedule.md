@@ -49,9 +49,12 @@ hide_footer: True
     .table tr:nth-child(23) { border-top: 2px solid #be4248ff; }
     .table tr:nth-child(23) { border-bottom: 2px solid #be4248ff; }
 
-    .table tr:nth-child(25) { border-bottom: 2px solid black; }
+    .table tr:nth-child(26) { background: #be4248ff;}
+    .table tr:nth-child(26) { color: white;font-weight:bold}
+    .table tr:nth-child(26) { border-top: 2px solid black; }
+    .table tr:nth-child(26) { border-bottom: 2px solid black; }
 
-
+    .table tr:nth-child(28) { border-bottom: 2px solid black; }
 </style>
 
 <div class="table">
@@ -84,4 +87,5 @@ hide_footer: True
 | FRIDAY MAY 27th  |   |   |
 | 10:00-12:00  |  **SUPERVISORY BOARD MEETING** |   |
 |   |  *Exclusive for IDPFun Supervisory Board Members* |   |
+
 </div>
