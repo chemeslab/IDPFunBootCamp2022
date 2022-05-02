@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedule
-permalink: /about/schedule/
+permalink: /schedule/
 hide_hero: False
 hero_height: is-small
 ---
