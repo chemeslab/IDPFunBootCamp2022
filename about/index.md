@@ -53,7 +53,7 @@ Please register [here](https://bit.ly/3vS6NRq)
 ### Friday May 27th
 * **SUPERVISORY BOARD MEETING** - Exclusive for IDPFun Supervisory Board Members.
 
-
+<!--
 ## ACKNOWLEDGEMENT
 
 <table>
@@ -69,3 +69,4 @@ Please register [here](https://bit.ly/3vS6NRq)
     </tr>
 
 </table>
+-->
