@@ -37,14 +37,14 @@ Please register [here](https://bit.ly/3vS6NRq)
 ### Tuesday May 24rd
 * Structural constraints on evolutionary rates of IDPs. - Nicolás Palopoli and Gustavo Parisi.
 * **SYMPOSIUM IN PERSON (IIB-UNSAM)** - **IDPs and Disease Mechanisms**. Chair: Lucía Chemes.
-- Disease-associated variants in liquid-liquid phase separation - Cristina Marino Buslje (Leloir Institute, Argentina)
-- Targeting liquid-liquid phase separation in disease - Peter Tompa (VUB-Brussels, Belgium)
-- Pathogen hijack of short linear motifs - Toby Gibson (EMBL Heidelberg, Germany)
-- Why do amyloidogenic proteins evolve faster? - Gustavo Parisi (UNQ, Buenos Aires, Argentina)
+    - Disease-associated variants in liquid-liquid phase separation - Cristina Marino Buslje (Leloir Institute, Argentina)
+    - Targeting liquid-liquid phase separation in disease - Peter Tompa (VUB-Brussels, Belgium)
+    - Pathogen hijack of short linear motifs - Toby Gibson (EMBL Heidelberg, Germany)
+    - Why do amyloidogenic proteins evolve faster? - Gustavo Parisi (UNQ, Buenos Aires, Argentina)
 * **CAREER DEVELOPMENT ROUNDTABLE** - **Career paths in bioinformatic and scientific research**
-- Senior PIs: P. Tompa, T. Gibson, S. Fornasari
-- Junior Scientists: N. Palopoli, J. Iserte, E. Martinez-Perez
-- Students/Trainees: Matyas Pakjos
+    - Senior PIs: P. Tompa, T. Gibson, S. Fornasari
+    - Junior Scientists: N. Palopoli, J. Iserte, E. Martinez-Perez
+    - Students/Trainees: Matyas Pakjos
 
 ### Thursday May 26th
 * Exploring protein disorder and diseases with MobiDB and DisProt databases - Alex Monzón and Federica Quaglia.
