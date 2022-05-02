@@ -29,9 +29,11 @@ Please register [here](https://bit.ly/3vS6NRq)
 * Tuesday 24/5. 2 to 6 PM.
 
 ## SUMMARY SCHEDULE
+
 ### Monday May 23rd
 * Prediction and analysis of functional motifs mediating viral and bacterial pathogen hijack. - Lucia Chemes and Juliana Glavina
 * Disease associated variants in liquid-liquid phase separation proteins. DisPhaseDB: An integrative database. - Cristina Marino Buslje and Alvaro M Navarro.
+
 ### Tuesday May 24rd
 * Structural constraints on evolutionary rates of IDPs. - Nicolás Palopoli and Gustavo Parisi.
 * **SYMPOSIUM IN PERSON (IIB-UNSAM)** - **IDPs and Disease Mechanisms**. Chair: Lucía Chemes.
@@ -43,9 +45,11 @@ Please register [here](https://bit.ly/3vS6NRq)
 - Senior PIs: P. Tompa, T. Gibson, S. Fornasari
 - Junior Scientists: N. Palopoli, J. Iserte, E. Martinez-Perez
 - Students/Trainees: Matyas Pakjos
+
 ### Thursday May 26th
 * Exploring protein disorder and diseases with MobiDB and DisProt databases - Alex Monzón and Federica Quaglia.
 * Functional modules in human pathogenic proteins assessed through database (PED and ELM) analysis and predictions (Anchor and AlphaFold) - Peter Tompa and Tamas Lazar.
+
 ### Friday May 27th
 * **SUPERVISORY BOARD MEETING** - Exclusive for IDPFun Supervisory Board Members.
 
