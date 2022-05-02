@@ -3,7 +3,7 @@
     - name: About
       link: /about
     - name: Schedule
-      link: /about/schedule/
+      link: /schedule/
     - name: Teachers
       link: /docentes
     - name: Venue
