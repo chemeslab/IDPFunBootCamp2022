@@ -1,0 +1,37 @@
+
+  
+<footer class="footer">
+    <div class="container">
+        
+        {% if site.footer_menu %}
+        <div class="columns is-multiline">
+            {% for item in site.data[site.footer_menu] %}
+            <div class="column has-text-centered">
+                <div>
+                    <a href="{{ item.link | relative_url }}" class="link">{{ item.name }}</a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+
+        <table>
+
+            <tr>
+                <td width="100">
+                    <img src="about/img/EU_logo.png" width="100%">
+                </td>
+        
+                <td>
+                    <em>This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 778247.</em>
+                </td>
+            </tr>
+        
+        </table>
+        
+
+        <div class="content is-small has-text-centered">
+            <p class=""><br><br>Theme built by <a href="https://www.csrhymes.com">C.S. Rhymes</a></p>
+        </div>
+    </div>
+</footer>
