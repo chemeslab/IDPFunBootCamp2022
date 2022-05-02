@@ -81,5 +81,7 @@ hide_footer: True
 | 13:00-14:00  | **LUNCH BREAK**  |   |
 | 14:00-18:00  | **TRAINING BOOTCAMP VIRTUAL**  |   |
 |   |   *Functional modules in human pathogenic proteins assessed through database (PED and ELM) analysis and predictions (Anchor and AlphaFold)*    |   Peter Tompa and Tamas Lazar |
-
+| FRIDAY MAY 27th  |   |   |
+| 10:00-12:00  |  **SUPERVISORY BOARD MEETING** |   |
+|   |  *Exclusive for IDPFun Supervisory Board Members* |   |
 </div>
