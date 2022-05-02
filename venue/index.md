@@ -22,5 +22,5 @@ Take lines 21, 28, 57, 78, 87, 106, 117, 123, 161, 169, 176.
 
 ### University Campus
 <p style="text-align:center">
-<img src="img/map_campus_miguelete.png" alt="IDPFun2022" style="max-width:70%">
+<img src="./img/map_campus_miguelete.png" alt="IDPFun2022" style="max-width:70%">
 </p>
