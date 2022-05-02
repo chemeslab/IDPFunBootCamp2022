@@ -4,7 +4,6 @@ title: Schedule
 permalink: /about/schedule/
 hide_hero: False
 hero_height: is-small
-hide_footer: True
 ---
 
 <style>
