@@ -63,7 +63,7 @@ hero_height: is-small
 |   | *Prediction and analysis of functional motifs mediating viral and bacterial pathogen hijack* | Lucia Chemes and Juliana Glavina
 | 13:00-14:00   | **LUNCH BREAK**   |   |
 | 14:00-18:00   | **TRAINING BOOTCAMP VIRTUAL** |   |
-|   | *Disease associated variants in liquid-liquid phase separation proteins. DisPhaseDB: An integrative database* | Cristina Marino Buslje and Alvaro M Navarro |
+|   | *Disease associated variants in liquid-liquid phase separation proteins. DisPhaseDB: An integrative database* | Cristina Marino Buslje, Javier Iserte and Alvaro M Navarro |
 | TUESDAY MAY 24rd  |   |   |
 | 9:00-13:00   | **TRAINING BOOTCAMP VIRTUAL**  |   |
 |   | *Structural constraints on evolutionary rates of IDPs*  |  Nicolas Palopoli and Gustavo Parisi |
