@@ -56,6 +56,10 @@ hero_height: is-small
     .table tr:nth-child(28) { border-bottom: 2px solid black; }
 </style>
 
+The times are indicated in GMT -3 time zone (Buenos Aires City, Argentina).
+
+If you want to check you time zone you can use the following webpage: [World Clock Meeting Server](https://www.timeanddate.com/worldclock/meeting.html)
+
 <div class="table">
 
 | MONDAY MAY 23rd | | |
